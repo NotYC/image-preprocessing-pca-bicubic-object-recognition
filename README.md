@@ -38,7 +38,5 @@ Object recognition models often require preprocessed image data to perform optim
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python--v2.png" alt="python" />
   <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="opencv" />
-  <img src="https://img.icons8.com/color/48/000000/jupyter.png" alt="jupyter" />
-  <img src="https://img.icons8.com/fluency/48/000000/folder-invoices.png" alt="dataset" />
   <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="AI" />
 </p>
